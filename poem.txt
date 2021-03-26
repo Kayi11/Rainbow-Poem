@@ -7,6 +7,7 @@ green
 yellow
 ..
 unicorn
+red
 
 these are the colors of the rainbow.
 and the unicorn.
